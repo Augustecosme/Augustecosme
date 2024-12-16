@@ -52,7 +52,7 @@ Après avoir exploré le monde fascinant du marketing, j'ai découvert une passi
 
 ## 📫 Me Contacter
 
-- 🔗 LinkedIn : [linkedin.com/in/warris-agbannonde](www.linkedin.com/in/warris-agbannonde)
+- 🔗 LinkedIn : Bientôt disponible
 
 ---
 
