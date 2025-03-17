@@ -52,7 +52,7 @@ Après avoir exploré le monde fascinant du marketing, j'ai découvert une passi
 
 ## 📫 Me Contacter
 
-- 🔗 LinkedIn : Bientôt disponible
+- 🔗 LinkedIn : https://www.linkedin.com/in/coovi-quenum-6a05a2333/
 
 ---
 
