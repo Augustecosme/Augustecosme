@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Coovi Quenum
+# 👋 Cosme Quenum
 
 **Développeur Full-Stack** | Marketing → Tech | Passionné par l'Innovation
 
@@ -19,7 +19,7 @@ Développeur full-stack en alternance avec un parcours atypique : après des ét
 const coovi = {
   role: "Développeur Full-Stack en Alternance",
   background: "Marketing Communication & Commerce",
-  passion: ["Innovation", "Clean Code", "User Experience"],
+  passion: ["Innovation", "Clean Code", "User Experience", "Déssin],
   currentFocus: "Building impactful web solutions",
   openTo: ["Collaborations", "Open Source", "Tech Talks"]
 };
@@ -107,8 +107,8 @@ const coovi = {
 <div align="center">
 
 ```
-Marketing & Commerce  →  Auto-formation Dev  →  Alternance Full-Stack
-     2020-2022              2022-2023              2023-Present
+Marketing & Commerce  →  formation Dev  →  Alternance Full-Stack
+     2021-2024              2024-2025              2025-Present
 ```
 
 </div>
