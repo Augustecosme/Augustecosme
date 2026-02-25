@@ -2,19 +2,18 @@
 
 # 👋 Coovi Quenum
 
-### Développeur Full-Stack | Marketing → Tech Transition
+**Développeur Full-Stack** | Marketing → Tech | Passionné par l'Innovation
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/coovi-quenum-6a05a2333/)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=react&logoColor=white)](#)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:votre.email@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/coovi-quenum-6a05a2333/)
+![Profile Views](https://komarev.com/ghpvc/?username=Augustecosme&color=blueviolet&style=flat-square&label=Visiteurs)
 
 </div>
 
 ---
 
-## 🚀 Qui suis-je ?
+## 👨‍💻 À Propos
 
-Développeur full-stack passionné avec un background unique en **marketing et commerce**. Cette double expertise me permet de créer des solutions techniques qui répondent aux vrais besoins business.
+Développeur full-stack en alternance avec un parcours atypique : après des études en marketing communication et commerce, j'ai découvert ma véritable passion dans le développement logiciel. Cette double compétence me permet d'allier vision business et excellence technique pour créer des solutions qui ont un impact réel.
 
 ```typescript
 const coovi = {
@@ -28,7 +27,7 @@ const coovi = {
 
 ---
 
-## 💼 Compétences Techniques
+## 🛠️ Stack Technique
 
 <table>
 <tr>
@@ -77,68 +76,68 @@ const coovi = {
 
 ---
 
-## 📈 GitHub Analytics
+## 📊 GitHub Activity
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Augustecosme&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Augustecosme&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Augustecosme&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Augustecosme&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ---
 
-## 🎯 Roadmap 2024
+## 🎯 Objectifs 2024
 
-```mermaid
-graph LR
-    A[Q1: Projets IA] --> B[Q2: Blockchain]
-    B --> C[Q3: Hackathons]
-    C --> D[Q4: Open Source]
-    style A fill:#4FC08D
-    style B fill:#007ACC
-    style C fill:#DD0031
-    style D fill:#F7DF1E
+<div align="center">
+
+| 🚀 Innovation | 🤝 Communauté | 📚 Formation | 💻 Open Source |
+|:---:|:---:|:---:|:---:|
+| 2 projets IA/Blockchain | 3+ hackathons | 1 cours/trimestre | Contributions régulières |
+
+</div>
+
+**En cours :**
+- ✅ Maîtriser TypeScript avancé
+- 🔄 Développer des solutions full-stack modernes
+- 📅 Participer activement à la communauté tech
+- 🌟 Contribuer à l'open source
+
+---
+
+## 🏆 Parcours
+
+<div align="center">
+
+```
+Marketing & Commerce  →  Auto-formation Dev  →  Alternance Full-Stack
+     2020-2022              2022-2023              2023-Present
 ```
 
-- ✅ Maîtriser TypeScript avancé
-- 🔄 Développer 2 projets innovants (IA/Blockchain)
-- 📅 Participer à 3+ événements tech
-- 🌟 Contribuer à l'open source régulièrement
-
----
-
-## 🏆 Highlights
-
-<div align="center">
-
-| 🎓 Formation | 💼 Expérience | 🚀 Projets |
-|:---:|:---:|:---:|
-| Marketing → Dev | Full-Stack Alternance | 10+ Projets Web |
-| Auto-formation | Méthodologies Agiles | Stack Moderne |
-
 </div>
 
+**Ce qui me distingue :**
+- 🎯 Vision business + compétences techniques
+- 🚀 Approche orientée résultats
+- 💡 Créativité dans la résolution de problèmes
+- 🤝 Esprit d'équipe et collaboration
+
 ---
 
-## 💬 Let's Connect!
+## 💬 Connectons-nous !
 
 <div align="center">
 
-**Ouvert aux opportunités de collaboration et d'échange**
+**Ouvert aux opportunités de collaboration, stages, alternances et projets innovants**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connectons--nous-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/coovi-quenum-6a05a2333/)
+[![GitHub](https://img.shields.io/badge/GitHub-Suivez--moi-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Augustecosme)
 
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Augustecosme&color=blueviolet&style=flat-square&label=Profile+Views" />
-  
-  <br/>
-  
   <i>💡 "Du marketing au code : transformer les idées en solutions digitales"</i>
+  
+  <br/><br/>
+  
+  ⭐ N'hésitez pas à explorer mes projets et à me contacter !
 </div>
