@@ -85,7 +85,7 @@ const coovi = {
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VOTRE_USERNAME&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Augustecosme&theme=tokyonight&hide_border=true" />
 </div>
 
 ---
@@ -136,7 +136,7 @@ graph LR
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=VOTRE_USERNAME&color=blueviolet&style=flat-square&label=Profile+Views" />
+  <img src="https://komarev.com/ghpvc/?username=Augustecosme&color=blueviolet&style=flat-square&label=Profile+Views" />
   
   <br/>
   
